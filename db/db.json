@@ -3,19 +3,20 @@
     {
       "id": 1,
       "username": "David",
-      "password": "phones"
-    },
-    {
-      "username": "Paul",
-      "email": "ll@gmail.com",
-      "password": "1111",
-      "id": 2
+      "password": "phones",
+      "email": "david@gmail.com",
+      "cart": [
+        {
+          "productId": 1,
+          "quantity": 2
+        }
+      ]
     },
     {
       "username": "Mike",
-      "email": "Mike@gmail.com",
       "password": "1111",
-      "id": 3
+      "email": "mike@gmail.com",
+      "id": 2
     }
   ],
   "products": [
@@ -37,7 +38,7 @@
     },
     {
       "id": 3,
-      "description": "Ergonomic vertical mouse is meticulously crafted with a unique vertical shape that reduces wrist and forearm strain, delivering a comfortable and natural grip. It promotes a more ergonomic posture, alleviating discomfort and enhancing overall comfort.",
+      "description": "Our ergonomic vertical mouse is meticulously crafted with a unique vertical shape that reduces wrist and forearm strain, delivering a comfortable and natural grip. It promotes a more ergonomic posture, alleviating discomfort and enhancing overall comfort.",
       "title": "Ergonomic Mouse",
       "category": "laptops",
       "image": "https://s.alicdn.com/@sc04/kf/H6e020b6a473b44288ab3c802f2f2709dx.jpg",
